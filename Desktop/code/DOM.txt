@@ -1,0 +1,4 @@
+mkdir my-first-page
+cd my-first-page
+touch index.html
+code .
